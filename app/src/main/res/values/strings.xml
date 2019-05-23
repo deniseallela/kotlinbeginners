@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myfirstapplication</string>
+    <string name="hello_world_text">Hello Universe</string>
+    <string name="random_heading">This is just some random  heading</string>
+</resources>
